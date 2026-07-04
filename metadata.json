@@ -1,0 +1,6 @@
+{
+  "name": "Smart Expense Tracker",
+  "description": "A smart expense tracker with a premium, Notion/Google-style UI, offering budget planning, analytics, and local & cloud sync options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

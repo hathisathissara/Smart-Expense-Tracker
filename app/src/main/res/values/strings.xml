@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Expense Tracker</string>
+    <string name="facebook_app_id">1234567890</string>
+    <string name="facebook_client_token">1234567890abcdef1234567890abcdef</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center a bold, filled coin with trending up arrow in a 66dp safe zone -->
+    <!-- Base Circle (Coin Rim) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,24c-16.57,0 -30,13.43 -30,30s13.43,30 30,30s30,-13.43 30,-30s-13.43,-30 -30,-30zM54,78c-13.25,0 -24,-10.75 -24,-24s10.75,-24 24,-24s24,10.75 24,24s-10.75,24 -24,24z" />
+    <!-- Dollar sign ($) and Trend Line integrated -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,34c-1.1,0 -2,0.9 -2,2v2.1c-2.41,0.52 -4.25,2.44 -4.5,4.9c-0.27,2.73 1.77,5 4.5,5.5l4,0.7c1.37,0.25 2.5,1.21 2.5,2.65c0,1.48 -1.22,2.65 -2.75,2.65c-1.37,0 -2.31,-0.83 -2.62,-1.95c-0.28,-1.02 -1.21,-1.55 -2.2,-1.3c-0.88,0.23 -1.43,1.17 -1.2,2.05c0.55,2.05 2.15,3.61 4.27,4.05L52,68c0,1.1 0.9,2 2,2s2,-0.9 2,-2v-2.1c2.41,-0.52 4.25,-2.44 4.5,-4.9c0.27,-2.73 -1.77,-5 -4.5,-5.5l-4,-0.7c-1.37,-0.25 -2.5,-1.21 -2.5,-2.65c0,-1.48 1.22,-2.65 2.75,-2.65c1.37,0 2.31,0.83 2.62,1.95c0.28,1.02 1.21,1.55 2.2,1.3c0.88,-0.23 1.43,-1.17 1.2,-2.05c-0.55,-2.05 -2.15,-3.61 -4.27,-4.05L56,36c0,-1.1 -0.9,-2 -2,-2z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M38,64 l11,-11 l8,8 l20,-20 l-4,-4 l-16,16 l-8,-8 l-15,15 z" />
+</vector>
